@@ -19,7 +19,7 @@ This project is an asynchronous web app that uses Web API and user data to dynam
 
 
 ## Usage
-_Any modern website browser can be used to view this project with node.js server._
+_Any modern website browser can be used to view this project._
 
 ## structure
 `app.js` contains client-server code to fetch data from API then post data to server and get updated data to update UI in `index.html`.
