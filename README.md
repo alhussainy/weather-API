@@ -4,7 +4,6 @@ Weather-Journal App is a web application created to get information about the te
 ## Table of Contents
 * [Overview](#Overview)
 * [Technologies](#technologies)
-
 * [Usage](#usage)
 * [structure](#structure)
 
@@ -18,10 +17,6 @@ This project is an asynchronous web app that uses Web API and user data to dynam
 3. JavaScript.
 
 
-## install
-`npm install express`
-`npm install body-parser`
-`npm install cors`
 
 ## Usage
 _Any modern website browser can be used to view this project with node.js server._
